@@ -10,7 +10,7 @@ function draw() {
   r = random(255);
   g = random(255);
 
-//first circle
+//circle 1
   noStroke();
   fill(216, 191, 216, 50);
   ellipse(a, b, 18, 18);
